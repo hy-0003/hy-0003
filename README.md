@@ -15,6 +15,7 @@
 - **Large Language Model**
 - **Deep BSDE Method**
 - **Scipy**
+- **Bioinformatics**
 
 
 ---
