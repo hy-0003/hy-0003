@@ -14,7 +14,7 @@
 - **Deep Learning**
 - **Large Language Model**
 - **Deep BSDE Method**
-- **Scipy**
+- **Computational Mathematics**
 - **Bioinformatics**
 
 
