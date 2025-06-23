@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/Follow%20Me-%23181717?style=flat&logo=github)](https://github.com/hy-0003)
 
 ---
- **I’m interested in ... Anything?** **I don't know much, I'm just a beginner still learning.**
+ **I’m interested in ... everything?** **I'm just a beginner, so I'm still picking things up.**
 
  **🚀I love challenges！**
 ### 🔭 Current Focus
