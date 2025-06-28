@@ -30,5 +30,6 @@ hy-0003/hy-0003 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy-0003)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy-0003)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=hy-0003&bg_color=DEG,2575fc,29ffc6,f9f586&title_color=fff&text_color=fff&show_icons=true)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy-0003&bg_color=DEG,1a3a8a,2a5bcc,4d8eff&title_color=fff&text_color=fff&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
