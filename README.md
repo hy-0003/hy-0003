@@ -1,7 +1,7 @@
 # Hellow！👋 I'm Yi He
 
 🎓 **Mathematics** Undergrad @ Lanzhou University   
-🌱 **Deep Learning** | 🤖 **LLM** | 📊 **BSDE** | ✨**AI for science**
+🌱 **Deep Learning** | 🤖 **Mutli-Agent** | 📊 **BSDE** | ✨**AI for science**
 
 [![GitHub](https://img.shields.io/badge/Follow%20Me-%23181717?style=flat&logo=github)](https://github.com/hy-0003)
 
@@ -11,7 +11,7 @@
  **🚀I love challenges！**
 ### 🔭 Current Focus
 - **Deep Learning**
-- **Large Language Model**
+- **Mutli-Agent**
 - **AI for science**
 - **Deep BSDE Method**
 - **Computational Mathematics**
