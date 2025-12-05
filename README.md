@@ -1,15 +1,15 @@
-# Hellow！👋 I'm Yi He
+# Hellow！I'm Yi He
 
-🎓 **Mathematics** Undergrad @ Lanzhou University 
+**Mathematics** Undergrad @ Lanzhou University 
 
 ### 🔭 Current Focus
 
-🌱 **Deep Learning** | 🤖 **Embodied Intelligence** | 📊 **Deep BSDE Method** | ✨**AI for science**
+**World Model** | **AI × science** | **Deep BSDE Method**
 
-🧬 **Bioinformatics** | 🌌 **Computational Mathematics**
+**Embodied Intelligence** | **Bioinformatics** | **Computational Mathematics**
 
 
- **I love challenges！** **I’m interested in ... everything?** **I'm just a beginner, so I'm still picking things up.** 🚀
+ **I love challenges！** **I’m interested in ... everything?** **I'm just a beginner, so I'm still picking things up.**
 
 <!---
 hy-0003/hy-0003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
