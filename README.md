@@ -4,9 +4,9 @@
 
 ### 🔭 Current Focus
 
-**World Model** | **AI × science** | **Deep BSDE Method**
+**World Model** | **AI × Science** | **Computational Mathematics**
 
-**Embodied Intelligence** | **Bioinformatics** | **Computational Mathematics**
+**Embodied AI** | **Bioinformatics** |
 
 
  **I love challenges！** **I’m interested in ... everything?** **I'm just a beginner, so I'm still picking things up.**
