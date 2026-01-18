@@ -4,7 +4,7 @@
 
 ### 🔭 Current Focus
 
-**World Model** | **AI × Science** | **Computational Mathematics** | **Embodied AI** | **Bioinformatics**
+**AI Infra / System** | **AI × Science** | **Computational Mathematics** | **Embodied AI** | **Bioinformatics**
 
 
  **I love challenges！** **I’m interested in ... everything?** **I'm just a beginner, so I'm still picking things up.**
