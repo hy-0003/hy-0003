@@ -4,7 +4,7 @@
 
 ### 🔭 Current Focus
 
- **Brain-Computer Interface** | **Embodied AI** | **AI × Science** | **AI Infra / System** | **Computational Mathematics** | **Bioinformatics**
+**Embodied AI** | **Brain-Computer Interface** | **AI × Science** | **AI Infra / System** | **Computational Mathematics** | **Bioinformatics**
 
 
  **I love challenges！** **I’m interested in ... everything?** **I'm just a beginner, so I'm still picking things up.**
