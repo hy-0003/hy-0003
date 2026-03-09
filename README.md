@@ -4,7 +4,7 @@
 
 ### 🔭 Current Focus
 
-**Embodied AI** | **Neuro-AI** | **AI × Science** | **AI Infra / System** | **Computational Mathematics** | **Bioinformatics**
+**Multimodal AI** | **Embodied AI** | **Neuro-AI** | **AI × Science**
 
 
  **I love challenges！** **I’m interested in ... everything?** **I'm just a beginner, so I'm still picking things up.**
