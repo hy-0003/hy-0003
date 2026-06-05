@@ -4,7 +4,7 @@
 
 ### 🔭 Current Focus
 
-**Multimodal AI** | **Embodied AI** | **Neuro-AI** | **AI × Science**
+**Embodied AI** | **VLA** | **World Model** | **AI × Science**
 
 
  **I love challenges！** **I’m interested in ... everything?** **I'm just a beginner, so I'm still picking things up.**
