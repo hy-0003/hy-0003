@@ -4,7 +4,7 @@
 
 ### Mathematics @ Lanzhou University · AI Agent · RSI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=760&lines=Mathematics+%40+Cuiying+Honors+College%2C+LZU;AI+%C3%97+Science;Future%3A+Recursive+Self Improvement" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=760&lines=Mathematics+%40+Cuiying+Honors+College%2C+LZU;AI+%C3%97+Science;Future%3A+Recursive+Self+Improvement" alt="Typing SVG" />
 
 <p>
   <a href="https://hy-0003.github.io/"><img src="https://img.shields.io/badge/Homepage-hy--0003.github.io-2DD4BF?style=flat-square" /></a>
