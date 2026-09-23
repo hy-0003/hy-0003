@@ -30,13 +30,6 @@
 Research Interests: **AI Agent · Recursive Self Improvement · AI × Science**
 
 
-## Contribution Heatmap
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/hy-0003" alt="Contribution Heatmap" />
-</div>
-
-
 ## Axiom of Extensionality for Functions
 
 <div align="center">
